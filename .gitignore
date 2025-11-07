@@ -1,4 +1,4 @@
-.cph
-.idea
+.cph/
+.idea/
 .venv
 .vscode

@@ -1,4 +1,7 @@
-.cph
-.idea
-.venv
+.venv/
 .vscode
+.cph/
+.idea/
+
+__pycache__/
+*.pyc

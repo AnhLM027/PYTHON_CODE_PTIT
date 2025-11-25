@@ -1,1 +1,0 @@
-{"name":"Local: ZZZ123","url":"d:\\CODE\\PYTHON\\ZZZ123.py","tests":[{"id":1755863558178,"input":"2\nHC Hanh chinh\nKH Ke hoach Dau tu\n2\nC06HC\nTran Binh Minh\n65\n25\nD03KH\nLe Hoa Binh\n59\n24","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CODE\\PYTHON\\ZZZ123.py","group":"local","local":true}
